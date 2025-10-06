@@ -43,8 +43,8 @@ It emphasizes real-time responsiveness, memory efficiency, and a clean separatio
 The result is a smooth, responsive video feed experience suitable for large-scale deployment—offering the best of **modern SwiftUI design** and **low-level AVFoundation performance**.
 
 ## Screenshots
-<p align="center">
+
   <img width="750" height="1334"  alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-06 at 12 07 09" src="https://github.com/user-  attachments/assets/96c18260-4ffc-4169-9a04-06bc165efcca" />
 
   <img width="750" height="1334" alt="Simulator Screenshot - iPhone 16 Pro - 2025-10-06 at 12 07 51" src="https://github.com/user-  attachments/assets/34d951df-65f1-4a0b-a3d9-4c80a07e7e50" />
-</p>
+
